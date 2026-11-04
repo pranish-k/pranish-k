@@ -12,7 +12,7 @@ CS major and math minor from Ramapo College of New Jersey (class of 2026), origi
 |---|---|---|
 | [HackerTube TV](https://github.com/pranish-k/hackertube-tv) | Android TV and Fire TV app built for the remote | JavaScript, Android TV |
 | [Homi](https://github.com/pranish-k/Homi) | iOS app for roommates: shared expenses, chores and house chat | SwiftUI, Firebase |
-| [Ask the Center](https://github.com/pranish-k/mentor-matching-system) | Q&A assistant for a university mentoring center | TypeScript, LLMs |
+| [CSI Timesheets](https://github.com/pranish-k/CSI_timesheets) | macOS app that prints two-week timesheets for a whole student-staff roster as one PDF | Python, Tkinter, ReportLab |
 | [Study Buddy](https://github.com/pranish-k/study-buddy) | AI tutor that sits with you like a person on a video call | TypeScript, Claude API |
 | [FPL Edge](https://github.com/pranish-k/fpl-edge) | Decision engine for Fantasy Premier League | Python |
 | [Live Chat Room](https://github.com/pranish-k/live-chat-room) | Multi-threaded TCP chat server and client | C, POSIX sockets, pthreads |
