@@ -19,7 +19,7 @@ CS major and math minor from Ramapo College of New Jersey (class of 2026), origi
 
 ### Live products
 
-- [NepBoli](https://nepbolicom.vercel.app) - crowdsourced dictionary of Nepali slang
+- [NepBoli](https://nepboli.com) - crowdsourced dictionary of Nepali slang
 - [H-1B Sponsor Finder](https://h1b-jobs.vercel.app) - search U.S. companies that sponsor H-1B visas
 - [Homi](https://homiapp.app) - the operating system for shared living
 
