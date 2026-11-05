@@ -1,7 +1,7 @@
 ## Hi, I'm Pranish 👋
 
 I solve problems I need solved by building software.
-CS major and math minor from Ramapo College of New Jersey (class of 2026), originally from Nepal, now in New Jersey.
+CS major and math minor from Ramapo College of New Jersey (class of 2026), originally from Nepal, now in Greater New York Area.
 
 **Now:** building [HOMI](https://homiapp.app), the operating system for shared living.
 **Recently shipped:** [HackerTube TV](https://github.com/pranish-k/hackertube-tv), Hacker News videos on Android TV and Fire TV.
