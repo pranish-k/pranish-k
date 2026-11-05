@@ -3,7 +3,7 @@
 I solve problems I need solved by building software.
 CS major and math minor from Ramapo College of New Jersey (class of 2026), originally from Nepal, now in New Jersey.
 
-**Now:** building [HOMI](https://homi-website-eight.vercel.app), the operating system for shared living.
+**Now:** building [HOMI](https://homiapp.app), the operating system for shared living.
 **Recently shipped:** [HackerTube TV](https://github.com/pranish-k/hackertube-tv), Hacker News videos on Android TV and Fire TV.
 
 ### Featured projects
@@ -21,7 +21,7 @@ CS major and math minor from Ramapo College of New Jersey (class of 2026), origi
 
 - [NepBoli](https://nepbolicom.vercel.app) - crowdsourced dictionary of Nepali slang
 - [H-1B Sponsor Finder](https://h1b-jobs.vercel.app) - search U.S. companies that sponsor H-1B visas
-- [Homi](https://homi-website-eight.vercel.app) - the operating system for shared living
+- [Homi](https://homiapp.app) - the operating system for shared living
 
 ### Websites I've built
 
